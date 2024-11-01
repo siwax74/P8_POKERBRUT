@@ -1,0 +1,48 @@
+# Environnements virtuels
+env/
+venv/
+ENV/
+.venv/
+.virtualenv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Fichiers de configuration d'éditeur
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Fichiers d’environnement
+.env
+.env.*
+
+# Fichiers de compilation
+*.egg-info/
+.eggs/
+*.egg
+*.whl
+build/
+dist/
+pip-wheel-metadata/
+
+# Caches de tests
+.pytest_cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.cache/
+
+# Documentation
+docs/_build/
+
+# Autres fichiers spécifiques à macOS et Windows
+.DS_Store
+Thumbs.db
