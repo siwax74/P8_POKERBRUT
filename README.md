@@ -1,9 +1,9 @@
 # 🎲 POKERBRUT 🎰
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <div style="font-size: 30px;">⏳</div>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2swZnlwcXNmc2V3MnZjcWk4ZDBnbHZjb2ZtdmhuOTM4ejE4OGpzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KXJzfrvuVnUODst2eO/giphy.webp" alt="Aperçu de POKERBRUT" width="250"/>
-    <div style="font-size: 30px;">⏳</div>
+<div align="center">
+    <h3>⏳</h3>
+    <div><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2swZnlwcXNmc2V3MnZjcWk4ZDBnbHZjb2ZtdmhuOTM4ejE4OGpzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KXJzfrvuVnUODst2eO/giphy.webp" alt="Aperçu de POKERBRUT" width="250"/></div>
+<img src="medias/screenshots/main_view.png" alt="Aperçu de POKERBRUT" width="600px">
 </div>
 
 
