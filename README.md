@@ -1,5 +1,5 @@
 <h1 align="center">🎲 POKERBRUT 🎰</h1>
-
+[Visites](https://visitor-badge.laobi.icu/badge?page_id=Siwax74.visitor-badge)
 <div align="center">
     <h3>⏳</h3>
 Pour voir les dernières fonctionnalités et améliorations, rendez-vous sur la [branche dev](https://github.com/siwax74/P8_POKERBRUT/tree/dev).
